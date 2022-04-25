@@ -1,0 +1,16 @@
+Django
+djangorestframework
+psycopg2-binary
+python-decouple
+django-cors-headers
+drf-yasg
+kavenegar
+django-silk
+pillow
+gunicorn
+django-grappelli
+coverage
+django-redis
+celery
+django-celery-results
+Cerberus
